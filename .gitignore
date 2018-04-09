@@ -11,3 +11,6 @@
 /.vscode/
 /build/
 /node_modules/
+
+.*.sw*
+*~
