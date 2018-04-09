@@ -1,0 +1,10 @@
+{
+  "name": "nodeExample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "x11": "^2.3.0"
+  }
+}

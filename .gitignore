@@ -7,10 +7,10 @@
 
 .DS_Store
 
-/.cache/
-/.vscode/
-/build/
-/node_modules/
+.cache/
+.vscode/
+build/
+node_modules/
 
 .*.sw*
 *~
